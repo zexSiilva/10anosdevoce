@@ -84,7 +84,7 @@ div#slidebg {
     background-repeat: no-repeat;
     backface-visibility: hidden;
 
-    animation: slide 100s linear infinite;
+    animation: slide 200s linear infinite;
     animation-timing-function: ease;
     animation-direction: alternate;
 }
